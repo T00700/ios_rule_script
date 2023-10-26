@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-25 02:10:13
+# UPDATED: 2023-10-26 02:09:26
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 126728
+# DOMAIN-SUFFIX: 126752
 # IP-CIDR: 364
 # URL-REGEX: 285
-# TOTAL: 140072
+# TOTAL: 140096
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -15365,6 +15365,7 @@
 .aruyevdqsnd.xyz
 .arvb.ewtcbedtmx.ru
 .arvb.gamz48qlok.ru
+.arvigorothan.com
 .arvossold.website
 .arwartortleer.com
 .arwfpvcpyjyoupb.xyz
@@ -26810,6 +26811,7 @@
 .collectionspriestcardiac.com
 .collectloopblown.com
 .collector-api.99designs.com
+.collector-api.frspecifics.com
 .collector-cdn.github.com
 .collector-dev.cdp-dev.cnn.com
 .collector-hpn.ghostery.net
@@ -29330,6 +29332,7 @@
 .cteripre.com
 .ctewd2qad.xyz
 .ctfuogdqoo.com
+.cthbini.xyz
 .cthisismoych.com
 .ctiavxtakmw.com
 .cticalwhichhere.info
@@ -34067,6 +34070,7 @@
 .datoporn.com
 .datouniao.com
 .datswebnnews.com
+.dattoswitches.com
 .datum.appfleet.com
 .datvantage.com
 .daubierbatties.uno
@@ -37485,6 +37489,7 @@
 .dsb.yahoo.co.jp
 .dsb6jelx4yhln.cloudfront.net
 .dsbahmgppc0j4.cloudfront.net
+.dsbfpt.xyz
 .dsbjdeh.cn
 .dsbt7.com
 .dscex7u1h4a9a.cloudfront.net
@@ -37748,6 +37753,7 @@
 .dunlopfermi.com
 .dunnedemicant.com
 .dunowmymmexmd.com
+.dunrnd.com
 .dunta.ru
 .duobaoqj.com
 .duobyj.icu
@@ -45138,6 +45144,7 @@
 .frightening-crack.pro
 .frightening-lesson.pro
 .frilly-number.pro
+.fringesdurocs.com
 .fripth.xyz
 .frisablestrk.com
 .friskbiscuit.com
@@ -47159,6 +47166,7 @@
 .ghastlyrejectionrest.com
 .ghattiwongsky.com
 .ghatwalplunker.live
+.ghbdsbfd.com
 .ghdlry.greetz.nl
 .gheraosonger.com
 .ghethe.com
@@ -47725,6 +47733,7 @@
 .gmx29.top
 .gmx30.top
 .gmx42.top
+.gmx44.top
 .gmx45.top
 .gmx46.top
 .gmx47.top
@@ -47780,6 +47789,7 @@
 .gnrmty.eurovaistine.lt
 .gnrnws.cn
 .gnsrlki.cn
+.gnuoipb.cn
 .gnwaqf.shotworks.jp
 .go-clicks.de
 .go-communications.comed.com
@@ -48642,6 +48652,7 @@
 .goniforas.com
 .gonnizetrk.com
 .gonpc.com
+.gontent.powzers.lol
 .gontent.steamplay.me
 .goobbe.com
 .gooblesdd.com
@@ -51545,6 +51556,7 @@
 .hlmiq.com
 .hlms.ecologie.gouv.fr
 .hlnr9q.icu
+.hlogger.heraldcorp.com
 .hlpidkr.ru
 .hlpnowp-c.com
 .hlqpie.waves.com
@@ -52760,6 +52772,7 @@
 .hylyl.club
 .hymenalwiring.com
 .hymptxqijmmg.com
+.hynahyqq.xyz
 .hynteroforion.com
 .hype-ads.com
 .hype.zlipa.com
@@ -52769,6 +52782,7 @@
 .hyperactivate.com
 .hyperadx.com
 .hyperbanner.net
+.hypercounter.com
 .hyperdx.io
 .hyperion.adtech.fr
 .hyperion.adtech.us
@@ -58968,6 +58982,7 @@
 .julionframe.com
 .julitenj.com
 .juliyea.sbs
+.juljrd.xyz
 .julkkoazfkh.com
 .jullyambery.net
 .jullycn.com
@@ -59358,6 +59373,7 @@
 .ka5188.com
 .kaafu.cn
 .kaan.kakao.com
+.kaaqgf.icu
 .kaartenhuis.nl.site-id.nl
 .kaayqbkwnbqja.top
 .kabalagarsil.com
@@ -61160,6 +61176,7 @@
 .l3g3media.com
 .l3op.info
 .l3r6p0d5.com
+.l404k.com
 .l44mobileinter.com
 .l45.xyz
 .l45fciti2kxi.com
@@ -81860,6 +81877,7 @@
 .phabsoun.net
 .phadia.thermo.com
 .phadia.thermofisher.com
+.phaglalt.com
 .phague.com
 .phaignux.xyz
 .phaikroo.net
@@ -93684,6 +93702,7 @@
 .selectivesummer.com
 .selectjeeps.acutx.org
 .selectmedia.asia
+.selectofmychoices.com
 .selectornews.com
 .selectr.net
 .selectroduced.com
@@ -99080,6 +99099,7 @@
 .smisto.com
 .smists.com
 .smithamenamel.com
+.smithumbewreck.com
 .smitionsory.co
 .smitry.com
 .smitt.nl
@@ -100767,6 +100787,7 @@
 .sreamyourvids.online
 .sreamyourvids.space
 .srefrukaxxa.com
+.sregfle.cn
 .srepdata.13wmaz.com
 .srepdata.armytimes.com
 .srepdata.battlecreekenquirer.com
@@ -103885,6 +103906,7 @@
 .stotoowu.net
 .stouceey.net
 .stougnee.com
+.stouksom.xyz
 .stoushgowds.com
 .stovearmpitagreeable.com
 .stovecharacterize.com
@@ -111696,6 +111718,7 @@
 .track.social.com
 .track.social.supply
 .track.socialstudio.ai
+.track.sodapdf.com
 .track.softpetpaws.com
 .track.software-codes.com
 .track.sohu.com
@@ -119545,6 +119568,7 @@
 .wesicuros.com
 .wesiedu.com
 .west.click
+.west.statisticplatform.com
 .west001.com
 .westats.dev
 .westbridges.net

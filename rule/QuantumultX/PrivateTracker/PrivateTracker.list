@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-25 02:16:02
-# HOST: 148
+# UPDATED: 2023-10-26 02:14:24
+# HOST: 153
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 119
 # IP-CIDR: 8
 # IP6-CIDR: 2
-# TOTAL: 280
+# TOTAL: 285
 HOST,107.182.30.76.16clouds.com,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -16,6 +16,7 @@ HOST,aarsen.me,PrivateTracker
 HOST,acxx.de,PrivateTracker
 HOST,aegir.sexy,PrivateTracker
 HOST,bigfoot1942.sektori.org,PrivateTracker
+HOST,black-bird.ynh.fr,PrivateTracker
 HOST,boysbitte.be,PrivateTracker
 HOST,bt.080609.xyz,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
@@ -24,6 +25,7 @@ HOST,bt1.archive.org,PrivateTracker
 HOST,bt2.archive.org,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
 HOST,carr.codes,PrivateTracker
+HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
@@ -34,12 +36,12 @@ HOST,explodie.org,PrivateTracker
 HOST,fe.dealclub.de,PrivateTracker
 HOST,fh2.cmp-gaming.com,PrivateTracker
 HOST,free.publictracker.xyz,PrivateTracker
+HOST,freedomalternative.com,PrivateTracker
 HOST,hub.bugout.link,PrivateTracker
 HOST,incine.ru,PrivateTracker
 HOST,ipv6.fuuuuuck.com,PrivateTracker
 HOST,isk.richardsw.club,PrivateTracker
 HOST,mail.artixlinux.org,PrivateTracker
-HOST,moonburrow.club,PrivateTracker
 HOST,movies.zsw.ca,PrivateTracker
 HOST,new-line.net,PrivateTracker
 HOST,ns1.monolithindustries.com,PrivateTracker
@@ -58,6 +60,7 @@ HOST,open.u-p.pw,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.i2p.rocks,PrivateTracker
 HOST,opentracker.io,PrivateTracker
+HOST,p2p.0g.cx,PrivateTracker
 HOST,p2p.publictracker.xyz,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
 HOST,pirate.hz.is,PrivateTracker
@@ -89,6 +92,7 @@ HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
 HOST,tracker.4.babico.name.tr,PrivateTracker
 HOST,tracker.artixlinux.org,PrivateTracker
+HOST,tracker.auctor.tv,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
@@ -115,6 +119,7 @@ HOST,tracker.lilithraws.org,PrivateTracker
 HOST,tracker.loligirl.cn,PrivateTracker
 HOST,tracker.moeking.me,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
+HOST,tracker.nartlof.com.br,PrivateTracker
 HOST,tracker.openbittorrent.com,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker

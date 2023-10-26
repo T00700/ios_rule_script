@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-25 02:08:38
+# UPDATED: 2023-10-26 02:08:06
 # DOMAIN: 16167
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 96390
+# DOMAIN-SUFFIX: 96424
 # IP-CIDR: 340
-# TOTAL: 112973
+# TOTAL: 113007
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -17330,6 +17330,7 @@ play.kakao.com
 +.4030b44c32.com
 +.4073284684.com
 +.407433bfc441.com
++.4087aa0dc1.com
 +.40ceexln7929.com
 +.40e82f6c27.com
 +.40f380afa3.com
@@ -23691,6 +23692,7 @@ play.kakao.com
 +.angryme.cn
 +.anguac.com
 +.anguished-child.pro
++.anguishedjudgment.com
 +.anguishexperimental.com
 +.anguishleague.com
 +.anguishlonesome.com
@@ -26605,6 +26607,7 @@ play.kakao.com
 +.berp.com
 +.berriesresound.com
 +.berryhillfarmgwent.com
++.berrynicolo.com
 +.berses.com
 +.berthformttet.com.ua
 +.berthsorry.com
@@ -28119,6 +28122,7 @@ play.kakao.com
 +.brokking.fr
 +.brominer.com
 +.brominewf.guru
++.bromisescapose.com
 +.bromoilnapalms.com
 +.bromusic.site
 +.bronto.com
@@ -32667,6 +32671,7 @@ play.kakao.com
 +.cxnadcribh.com
 +.cxnre.xyz
 +.cxovwczosr.com
++.cxpjrqa.cn
 +.cxpublic.com
 +.cxsh.cn.com
 +.cxtkpfbvu.com
@@ -33995,6 +34000,7 @@ play.kakao.com
 +.datingtoday.top
 +.datingtopgirls.com
 +.datingvr.ru
++.dattoswitches.com
 +.datvantage.com
 +.daubierbatties.uno
 +.daughterbump.com
@@ -39477,6 +39483,7 @@ play.kakao.com
 +.fluxads.com
 +.fluxy.xyz
 +.flvpcdnb.com
++.flw.camcaps.ac
 +.flwvnby8fspljrr.ru
 +.flx1.com
 +.flxpxl.com
@@ -40812,6 +40819,7 @@ play.kakao.com
 +.geistm.com
 +.geiybze.com
 +.gejeegho.net
++.gejhhh.cn
 +.gejulm1314.com
 +.gekroome.com
 +.gelbjvl.cn
@@ -41542,6 +41550,7 @@ play.kakao.com
 +.gmx28.top
 +.gmx29.top
 +.gmx30.top
++.gmx42.top
 +.gmx45.top
 +.gmx46.top
 +.gmx47.top
@@ -41737,6 +41746,7 @@ play.kakao.com
 +.gongyuxinxi.xyz
 +.goniforas.com
 +.gonpc.com
++.gontent.powzers.lol
 +.goo-access-analytics.appspot.com
 +.goobbe.com
 +.gooblesdd.com
@@ -41917,6 +41927,7 @@ play.kakao.com
 +.gqer.ru
 +.gqgfrgx.cn
 +.gqilaywrqy.com
++.gqleov.icu
 +.gqubkbuinx.com
 +.gr0z6.xyz
 +.grabbit-rabbit.com
@@ -45865,6 +45876,7 @@ play.kakao.com
 +.irritationcrayonchord.com
 +.irrrymucwxjl.ru
 +.irs03.com
++.irtefs.xyz
 +.irtya.com
 +.irtyd.com
 +.irtyf.com
@@ -46199,6 +46211,7 @@ play.kakao.com
 +.jacques-brinat.fr
 +.jacragatztit.com
 +.jacsmuvkymw.com
++.jactantsplodgy.com
 +.jadcenter.com
 +.jadedhide.pro
 +.jadqoc.xyz
@@ -46670,6 +46683,7 @@ play.kakao.com
 +.jmeanzkixok.com
 +.jmeeersdkmoir.xyz
 +.jmged.xyz
++.jmhngn.com
 +.jmlinks.cn
 +.jmlk.co
 +.jmm8a.xyz
@@ -48363,6 +48377,7 @@ play.kakao.com
 +.l3g3media.com
 +.l3op.info
 +.l3r6p0d5.com
++.l404k.com
 +.l44mobileinter.com
 +.l45fciti2kxi.com
 +.l4efwdtg.icu
@@ -50062,6 +50077,7 @@ play.kakao.com
 +.loinpriestinfected.com
 +.loirs.fr
 +.loispp.com
++.loivpdbzx.com
 +.lojapremio.com.br
 +.lokalleads-cci.com
 +.lokeriklan.com
@@ -50413,6 +50429,7 @@ play.kakao.com
 +.lueway.fr
 +.lufbogazixz.com
 +.luffic.com
++.lugajxy.com
 +.lugansk-info.ru
 +.luggageflinchdew.com
 +.lugjdylyqc.xyz
@@ -50809,6 +50826,7 @@ play.kakao.com
 +.magnetisemedia.com
 +.magnetmail1.net
 +.magniffic-strean.com
++.magnificent-listen.com
 +.magnificentflametemperature.com
 +.magnificentmanlyyeast.com
 +.magnificohec.xyz
@@ -51811,6 +51829,7 @@ play.kakao.com
 +.mergeandcenter.com
 +.mergedlava.com
 +.mergerpep.com
++.mergessidi.com
 +.meridia.1.p2l.info
 +.meridia.3.p2l.info
 +.meridia.4.p2l.info
@@ -54632,6 +54651,7 @@ play.kakao.com
 +.njlzougyfjo.com
 +.njmaq.com
 +.njogejt.icu
++.njppuaj.cn
 +.njqyjlyh.com
 +.njs.manhuahome.com
 +.njslx.cn
@@ -56133,6 +56153,7 @@ play.kakao.com
 +.oneclickpic.net
 +.onecomedyservices.com
 +.onedmp.com
++.onedragon.win
 +.onedrive-cdn.com
 +.onedrive-download-en.com
 +.onedrive-download.com
@@ -57797,6 +57818,7 @@ play.kakao.com
 +.pdn-3.com
 +.pdn-5.com
 +.pdns.nudt.edu.cn
++.pdridjiviq.com
 +.pds-midea.com
 +.pdsxp.cn
 +.pdsyibwlxd.xyz
@@ -58185,6 +58207,7 @@ play.kakao.com
 +.ph-ad19.focalink.com
 +.ph-ad20.focalink.com
 +.ph-ad21.focalink.com
++.phaglalt.com
 +.phague.com
 +.phaignux.xyz
 +.phaikroo.net
@@ -59938,6 +59961,7 @@ play.kakao.com
 +.promo.mes-meilleurs-films.fr
 +.promo.mobile.de
 +.promo.partner.alawar.ru
++.promo.pixelsee.app
 +.promo.profxbrokers.com
 +.promo.rzonline.ru
 +.promo.streaming-illimite.net
@@ -60939,6 +60963,7 @@ play.kakao.com
 +.qbd3.site
 +.qbd4.site
 +.qbdgame.com
++.qbhjokk.xyz
 +.qbhmz3.com
 +.qbhyczr5hw.ru
 +.qbittorrent.com
@@ -64428,6 +64453,7 @@ play.kakao.com
 +.sconceszeugite.com
 +.sconvtrk.com
 +.scoop.it
++.scoopy.cdn112.com
 +.scootermonkmortify.com
 +.scootloor.com
 +.scopelight.com
@@ -64554,6 +64580,7 @@ play.kakao.com
 +.sdk.pulse.schibsted.com
 +.sdk.starbolt.io
 +.sdk.zadn.vn
++.sdkl.info
 +.sdkv2.imaginationunwired.com
 +.sdlmhb.com
 +.sdlzmm.cn
@@ -66260,6 +66287,7 @@ play.kakao.com
 +.smisto.com
 +.smists.com
 +.smithamenamel.com
++.smithumbewreck.com
 +.smitry.com
 +.smitt.nl
 +.smjulynews.com
@@ -67712,6 +67740,7 @@ play.kakao.com
 +.stgowan.com
 +.sthenicrefunds.com
 +.sthjoq.com
++.sthoutte.com
 +.stialt.com
 +.sticalsdebaticalfe.info
 +.stichosxylenol.guru
@@ -67830,6 +67859,7 @@ play.kakao.com
 +.stotchou.com
 +.stotoowu.net
 +.stougnee.com
++.stouksom.xyz
 +.stoushgowds.com
 +.stovearmpitagreeable.com
 +.stovecharacterize.com
@@ -67906,6 +67936,7 @@ play.kakao.com
 +.strickenenergetic.com
 +.strictgrittwine.com
 +.strident-writing.com
++.stridentbedroom.pro
 +.striglusor.com
 +.strikead.com
 +.stringssymptomfishing.com
@@ -71015,6 +71046,7 @@ play.kakao.com
 +.trackeame.com
 +.trackedlink.net
 +.trackedweb.net
++.tracker-00.qvb.qcloud.com
 +.tracker-2.com
 +.tracker-mw-zlivestream.zapps.vn
 +.tracker-pm2.spilleren.com
@@ -74507,6 +74539,7 @@ play.kakao.com
 +.viyouhui.com
 +.vizacasa.xyz
 +.vizagtobfx.com
++.vizhtd.xyz
 +.vizisense.net
 +.vizofnwufqme.com
 +.vizu.com
@@ -78377,6 +78410,7 @@ play.kakao.com
 +.yisheng120.info
 +.yiteattends.tech
 +.yitongfang.com
++.yivkzvog.xyz
 +.yiw2iei.icu
 +.yiwanuu.com
 +.yixios.com
